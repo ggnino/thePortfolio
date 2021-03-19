@@ -78,7 +78,7 @@ function Portfolio() {
 				});
 				setDesc({
 					description:
-						"A exercise app built for tracking daily activites. You can register with a new user or login with user: Admin pw: 123456. Built this app with the MERN stack, OAuth and loading.io library.",
+						"A exercise app built for tracking daily activites. You can register with a new user or login with user: Admin pw: 123456. Built this app with the MERN stack, passportjs and loading.io library.",
 				});
 			}, 4000);
 		}
